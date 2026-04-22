@@ -29,7 +29,8 @@ yarn-error.*
 # macOS
 .DS_Store
 *.pem
-
+#native
+nativewind.d.ts
 # local env files
 .env*.local
 
